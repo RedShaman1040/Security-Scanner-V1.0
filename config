@@ -1,0 +1,4 @@
+Configuración
+Antes de ejecutar el script, asegúrate de reemplazar 'tu_clave_de_api_de_virustotal' con tu propia clave de API en el código.
+
+  VIRUSTOTAL_API_KEY = 'tu_clave_de_api_de_virustotal'
